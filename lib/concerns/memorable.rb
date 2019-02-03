@@ -8,5 +8,3 @@
   def self.count
     self.all_count
   end
-    
-
